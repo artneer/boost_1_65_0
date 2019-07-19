@@ -1,0 +1,1 @@
+b2 toolset=msvc-12.0 install --prefix="../socket.io-client-cpp/boost" --with-system --with-date_time --with-random link=static runtime-link=shared threading=multi
