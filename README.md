@@ -1,6 +1,9 @@
 # boost_1_65_0
 for dependency of socket.io-client-cpp
 
+## Requirement
+- `OpenSSL v1.0.2` (unsupported on OpenSSL v1.1.1 to build boost lib)
+
 ## Build.bat   
 reference: http://informilabs.com/building-boost-32-bit-and-64-bit-libraries-on-windows/
 #### `b2`
